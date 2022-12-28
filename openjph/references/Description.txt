@@ -1,0 +1,5 @@
+Malamute.ppm is taken from https://www.hlevkin.com/hlevkin/06testimages.htm
+mm.ppm and mm.pgm are crops from an unknown source
+monarch.pgm is taken from https://www.hlevkin.com/hlevkin/06testimages.htm and converted to grey scale
+foreman is the first frame from the fameous foreman video test sequence
+
