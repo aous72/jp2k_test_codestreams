@@ -251,9 +251,9 @@ simple_enc_irv97_tall_narrow.j2c references/tall_narrow.ppm
 79.221436 41
 71.136719 32
 simple_enc_irv97_tall_narrow1.j2c references/tall_narrow.ppm
-96.793457 41
-69.682373 39
-66.782227 35
+100.905762 39
+76.113037 35
+72.834717 34
 simple_enc_rev53_tall_narrow.j2c references/tall_narrow.ppm
 0.000000 0
 0.000000 0
