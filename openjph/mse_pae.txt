@@ -158,6 +158,10 @@ simple_dec_rev53_64x64_16bit.jph references/mm.ppm
 0.000000 0
 simple_dec_rev53_64x64_16bit_gray.jph references/mm.pgm
 0.000000 0
+simple_dec_irv53_bhvhb_low_latency.jph references/Malamute.ppm
+5.523916 16
+4.014045 17
+6.816603 23
 simple_enc_irv97_64x64.j2c references/Malamute.ppm
 46.200432 48
 43.621990 46
